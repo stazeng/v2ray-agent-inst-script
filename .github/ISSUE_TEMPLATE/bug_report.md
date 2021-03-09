@@ -1,7 +1,10 @@
 ---
-name: bug反馈 about: bug反馈 title: 'bug反馈'
+name: Bug report
+about: Bug report
+title: ''
 labels: ''
 assignees: ''
+
 ---
 
 > 请仔细填写每一项，并回复自己详细的错误信息
